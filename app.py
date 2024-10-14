@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:ef0b1e845eeb4d20aa1ca5afe11aabe924e377e925a779cb7481c1640bfdb0fb
-size 3582
-=======
+
 import streamlit as st
 import numpy as np
 import cv2
@@ -55,4 +51,4 @@ def main():
 # Run the app
 if __name__ == '__main__':
     main()
->>>>>>> bb67d25e6cf35b3ec832ea3b9f7f688a9c574827
+
